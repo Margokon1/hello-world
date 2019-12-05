@@ -1,2 +1,1 @@
-# hello-world
-just try
+你好世界
